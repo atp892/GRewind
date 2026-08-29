@@ -33,7 +33,7 @@ namespace GRewind
     }
     public class ReflectionHelpers
     {
-        // utilla depends on field info and it could also be used for mods without assembly publicizers
+        // old utilla depends on field info and it could also be used for mods without assembly publicizers
         public static FieldInfo GetFieldInfoSafe(Type t, string name, BindingFlags flags, bool tryNonStatic = false)
         {
             FieldInfo f = t.GetField(name, flags);
