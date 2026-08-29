@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRewind", "GRewind.csproj", "{42A1248C-EF4E-4E80-8A2E-B013E83BDEBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42A1248C-EF4E-4E80-8A2E-B013E83BDEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A1248C-EF4E-4E80-8A2E-B013E83BDEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A1248C-EF4E-4E80-8A2E-B013E83BDEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A1248C-EF4E-4E80-8A2E-B013E83BDEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED25EAF7-B6CD-45FB-939F-17AE18C22657}
+	EndGlobalSection
+EndGlobal
